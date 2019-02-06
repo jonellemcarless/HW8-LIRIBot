@@ -1,0 +1,27 @@
+{
+  "name": "HW8-LIRIBot",
+  "version": "1.0.0",
+  "description": "### Consumer API keys s7ndPm8x3sARYjvrtRMFKZrT5 (API key) 1AyqsVkAfaUHa8AuSy58obZFWYUN8uyHRrvOj7MNVnZRJGIWxm (API secret key)",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "jshint": "^2.10.1",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonellemcarless/HW8-LIRIBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonellemcarless/HW8-LIRIBot/issues"
+  },
+  "homepage": "https://github.com/jonellemcarless/HW8-LIRIBot#readme"
+}
